@@ -1,0 +1,13 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+.Backy{
+background-color: grey; 
+}
+.nav{
+  height: 50px;
+  width: 100%;
+  color: white;
+}
